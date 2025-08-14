@@ -63,6 +63,7 @@
 - Invest in gun safes and locking display cases for all firearms
 - Position cameras strategically inside and outside (entry, exits, sales floor, safes)
 - Set automated lighting scenes to deter break-ins after hours
+  - this can be done with smart IOT bulbs in back room / office
 - Develop cash handling policies and drop safe procedures
 - Inventory and log all firearms daily; integrate into POS with audit trail
 - Review/renew insurance policy for theft, liability, and inventory loss
