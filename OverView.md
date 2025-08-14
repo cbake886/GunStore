@@ -1,3 +1,5 @@
+In my opinion the best next steps for POS and website configuration is to reach out to Connect POS and book a demo: (https://www.connectpos.com/firearms-pos/). Scroll down to 3/4 page and you will see a centered button for "Book Demo". I would like to be present for this demo. Below is my research so far. This allows us to not need GCP or as much configuration and maintence. More stable proven platform - makes you look far more professional and trustworthy.
+
 To launch a **gun store in Michigan with both in-store and online firearm sales**, you must meet strict federal and state legal requirements and use a specialized Point-of-Sale (POS) system and eCommerce setup built for firearm industry compliance. Below is a highly detailed overview covering POS and website options, legal workflow, and critical pros/cons.
 
 ***
